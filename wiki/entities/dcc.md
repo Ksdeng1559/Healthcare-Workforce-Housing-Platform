@@ -15,4 +15,4 @@
 
 ## Open questions
 - Current New Westminster DCC rates for multifamily?
-- Not modeled in the proposal's cost estimates — material omission for pro forma
+- ~~Not modeled in cost estimates~~ — resolved for the current project: Phase 1 pro forma includes $155,000 for "New West DCCs, school levies, connections" [sapperton-investment-memorandum-2026, §4]. Remains unmodeled in the superseded 2024 proposal.

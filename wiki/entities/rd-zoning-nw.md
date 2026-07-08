@@ -1,11 +1,12 @@
-# RD Zoning (Residential Detached) — New Westminster
+# RD Zoning (Residential Detached) — New Westminster (LIKELY ERRONEOUS — SUPERSEDED)
 **Type**: Policy
 **First seen**: garrett-street-proposal-2024, 2026-07-07
 **Last confirmed**: garrett-street-proposal-2024, 2026-07-07
+**Status**: Superseded — both 2026 sources identify the Garrett Street lots as **RS-1** under Zoning Bylaw No. 6680, with bylaw citation. The 2024 proposal's "RD" designation was uncited and is treated as an error. See [[rs-1-zoning-nw]].
 
 ## What we know
-- New Westminster zoning designation permitting single-family or duplex development [garrett-street-proposal-2024, p.1 — proponent assertion, verify against bylaw]
-- Current zoning of [[garrett-street-assembly]]
+- ~~New Westminster zoning designation permitting single-family or duplex development~~ [garrett-street-proposal-2024, p.1 — uncited; superseded by [[rs-1-zoning-nw]] per sapperton-investment-memorandum-2026]
+- Was described as current zoning of [[garrett-street-assembly]]
 
 ## Relationships
 - `governs` ← [[new-westminster]]

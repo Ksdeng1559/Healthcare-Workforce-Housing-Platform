@@ -1,7 +1,8 @@
-# Garrett Street Redevelopment Project
+# Garrett Street Redevelopment Project (2024 strata concept — SUPERSEDED)
 **Type**: Project
 **First seen**: garrett-street-proposal-2024, 2026-07-07
 **Last confirmed**: garrett-street-proposal-2024, 2026-07-07
+**Status**: Superseded by [[sapperton-district-project]] (Jun–Jul 2026) — strata/condo sale model replaced by phased purpose-built rental thesis anchored to RCH workforce; site scope reduced from 6 lots to 419+407 ([[garrett-407-419-assembly]])
 
 ## What we know
 Proposed multifamily apartment building on the [[garrett-street-assembly]] site. All figures below are proponent estimates [garrett-street-proposal-2024].
@@ -32,7 +33,6 @@ Proposed multifamily apartment building on the [[garrett-street-assembly]] site.
 - Unit-count math uses gross buildable area ÷ 900 sq ft with no efficiency ratio (common areas, circulation) — 90 units from 82,500 sq ft gross is optimistic; net sellable typically ~80–85% of gross. Single-source proponent claim.
 
 ## Open questions
-- Rental vs strata? Proposal implies strata (sale prices) — how does this square with the workforce *rental* housing thesis in repo docs (GREEN_RENTAL_HOUSING_STRATEGY.md)?
-- What affordable housing % would New Westminster require for density bonus?
-- Residual land value at stated costs/revenues?
+- ~~Rental vs strata?~~ Answered: 2026 thesis is 100% secured rental, matching council TOA preference [sapperton-master-strategy-2026]. Strata model abandoned.
 - Modular delivery applicable? (see Modular_Housing_Research_Brief — not yet ingested)
+- Historical: was this proposal ever submitted to the City? No evidence in sources.

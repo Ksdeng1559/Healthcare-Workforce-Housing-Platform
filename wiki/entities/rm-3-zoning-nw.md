@@ -19,4 +19,4 @@ Per the Garrett Street proposal [garrett-street-proposal-2024, p.1–2 — propo
 
 ## Open questions
 - Actual RM-3 parameters in current New Westminster zoning bylaw?
-- Does RM-3 still exist as proposed pathway post-2023/24 provincial housing legislation?
+- ~~Does RM-3 still exist as proposed pathway?~~ Effectively answered: neither 2026 document mentions RM-3 — the current entitlement strategy uses the Infill Housing Program (Phase 1) and TOA rezoning (Phase 2) instead. RM-3 pathway appears abandoned [sapperton-investment-memorandum-2026; sapperton-master-strategy-2026].
