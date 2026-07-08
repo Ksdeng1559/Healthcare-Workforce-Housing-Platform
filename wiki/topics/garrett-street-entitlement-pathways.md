@@ -21,6 +21,9 @@ Land value steps with entitlement: $3.1M–$3.4M (status quo) → $3.6M–$4.2M 
 
 **Timing lever**: file the Phase 1 infill DP before the Oct 2026 council election; provincial TOA/Housing Supply Act mandates plus the HAF deadline (Jun 15, 2026) constrain municipal reversal [both 2026 sources].
 
+**Program scale**: Infill Program pre-zones ~3,000 properties citywide (1,900→4 units, 1,100→6 units); subject site's 4-vs-6-unit category unconfirmed [sapperton-sentiment-analysis-2026; developer-presentation-2026]. OCP designation on both lots: RLM (Residential–Limited Mid Rise); 407's confirmed via listing [developer-presentation-2026].
+
 ## Tensions and uncertainties
-- TOA Tier 3 status presumed from 400–800m distance, not confirmed by the City — memo itself flags as pre-acquisition requirement.
+- TOA Tier 3 status presumed from 400–800m distance, not confirmed by the City — memo itself flags as pre-acquisition requirement (call 604-527-4532 / CityViews).
+- **Mid-rise approval path disputed within the sponsor's own documents**: rezoning + public hearing [memo/deck] vs "as-of-right, no hearing, 3–5 months" for consolidated RLM lots [landowner page]. See [[rlm-designation-nw]] — the single most consequential unresolved zoning question.
 - All zoning parameters sourced from sponsor documents citing bylaws; bylaw texts not independently checked in wiki.

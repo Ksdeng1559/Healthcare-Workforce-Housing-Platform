@@ -30,11 +30,16 @@ The platform's core initiative: a phased, employer-anchored purpose-built rental
 - Produced by [[eng-associates]]
 - `supersedes` → [[garrett-street-project]] — replaces the Dec 2024 strata/condo concept with rental thesis
 
+**Execution plans (Jul 7, 2026)**: two GTM tracks now documented —
+- *Land side* [landowner-gtm-2026]: persona-segmented owner outreach (mail, door-knock, geo ads, referrals) → assignable option agreements (18–24 mo windows); target 1 signed option per Tier 1 block within 6 months; assembly risk named the single largest underwriting risk; BC real-estate licensing compliance flagged
+- *Capital side* [developer-gtm-2026]: Stage 0 proof-point gate (TOA tier confirmed + site control + CMHC pre-qual + Fraser Health letter) before any High-fit equity outreach; immediate approaches limited to Fraser Health, CMHC, Wesgroup; target signed Phase 1 JV/lending commitment by month 6
+
 ## Tensions
 - Phase 1 stabilized value ($2.8M–$3.8M) is **below** Phase 1 total project cost ($3.76M) at the midpoints — negative development margin on income approach; thesis relies on land appreciation to TOA value ($4.5M–$5.5M) rather than Phase 1 yield. Both figures same source [sapperton-investment-memorandum-2026, §4]; not hidden, but understated in narrative.
 - Job postings: 600+ [memo] vs 612+ ZipRecruiter [strategy] — consistent, minor.
+- Owner-facing landing page overstates entitlement certainty vs internal documents (as-of-right vs rezoning) — see [[rlm-designation-nw]].
 
 ## Open questions
-- Fraser Health engagement status — any letter/MOU progress?
-- Which capital partner conversations are live?
-- Phase 2 rezoning economics: full pro forma not yet in wiki (pitch deck + pro forma model referenced but not ingested)
+- Fraser Health engagement status — GTM docs (Jul 7, 2026) confirm outreach **not yet started**; all partner status = planning
+- Phase 2 full pro forma model still referenced but not in wiki
+- Modular delivery decision for Phase 1/2 (see [[modular-construction]])

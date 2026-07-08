@@ -6,7 +6,8 @@
 ## What we know
 - Federal forgivable capital contributions for units at below-market rents to income-qualified tenants; now folded into the Build Canada Homes mandate [sapperton-investment-memorandum-2026, §4]
 - Converts repayable → forgivable if affordability covenants maintained over long hold (20+ years per strategy doc)
-- $1.5B top-up announced Sep 2025; $14B program scale cited [sapperton-master-strategy-2026]
+- $1.5B top-up announced Sep 2025; 2025 deployment: $14B / 57,000 homes [sapperton-master-strategy-2026; investor-sponsor-universe-2026 citing CMHC 2025 Annual Report]
+- Administered under [[build-canada-homes]] (launched Sep 14, 2025, $13B capitalization) [modular-housing-brief-2026]
 - Role in district plan: $2M–$5M forgivable layer in Phase 2 stack; healthcare workers under Fraser Health income thresholds cited as qualifying tenant class [both 2026 sources]
 
 ## Relationships

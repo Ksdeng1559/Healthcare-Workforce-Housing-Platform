@@ -12,6 +12,14 @@
 - Value tiers (Eng & Associates estimates): floor $3.1M–$3.4M; assembled/infill $3.6M–$4.2M; TOA rezoned $4.5M–$5.5M; 3-lot $7M–$9M [sapperton-investment-memorandum-2026, §2]
 - Density pathways: RS-1 today (0.50 FSR, ~3 units) / Infill Program (4–6 units, immediate) / TOA mid-rise (8 storeys, 3.0 FSR min, ~31,300 sq ft GFA, design guidelines 2027) [sapperton-investment-memorandum-2026, §2]
 
+**Lot-level detail** [developer-presentation-2026, slide 3]:
+| | 419 Garrett | 407 Garrett |
+|---|---|---|
+| Zoning / OCP | RS-1 / RLM | RS-1 / RLM (listing-confirmed) |
+| Lot | ~5,000–5,500 sq ft | ~5,085 sq ft (45×113 ft, MLS) |
+| Structure | ~2,400 sq ft SFH, 4bd/2.5ba | older SFH, marketed for redevelopment |
+| Value | ~$1.5M–$1.7M est. (unlisted) | **$1,999,000 — listed Sep 2025 with RLM/TOA marketing** [also sapperton-sentiment-analysis-2026] |
+
 ## Relationships
 - `located-in` → [[new-westminster]] (Sapperton)
 - `zoned-as` → [[rs-1-zoning-nw]] — current [sapperton-investment-memorandum-2026]
@@ -20,11 +28,13 @@
 - `serves` → [[royal-columbian-hospital]] — workforce housing target
 
 ## Tensions
-- **Pro forma land inconsistency**: Phase 1 pro forma uses $1,850,000 land acquisition, but the memo's own target assembled price is $3.6M–$4.2M and floor value $3.1M–$3.4M [sapperton-investment-memorandum-2026 §4 vs §2/§5]. Unexplained ~2x gap; possibly land partially equity-contributed or per-phase allocation. Material for any pro forma review.
+- ~~Pro forma land inconsistency ($1.85M vs $3.6M–$4.2M)~~ **RESOLVED**: deck's pro forma line reads "Assembly of 419 + 407 Garrett **(share of purchase)** — $1,850,000" — Phase 1 carries an allocated share of the full acquisition, not total land cost [developer-presentation-2026, slide 8]. Note the memo omitted "(share of purchase)", which made it misleading standalone.
+- **Approval-path conflict (mid-rise)**: owner-facing landing page claims assembled lots reach 8-storey/3.0 FSR "as-of-right — no rezoning, no public hearing, 3–5 months" via RLM [landowner-information-page-2026], while memo/deck say full rezoning + public hearing, guidelines 2027. See [[rlm-designation-nw]]. Unresolved; verify with City Planning before using the page publicly.
 - **Relation to 2024 6-lot assembly**: the Dec 2024 proposal ([[garrett-street-assembly]]) described lots 434/431/427/425/419/417 (~33,000 sq ft) zoned "RD". The 2026 documents describe only 419+407 (~10,440 sq ft) zoned RS-1. Lot 407 vs 417 discrepancy unexplained (renumbering, typo, or different lots). 2026 scope treated as current; 2024 scope superseded.
 
 ## Open questions
-- Confirm TOA tier with City of New Westminster Planning (flagged as pre-acquisition requirement in memo)
-- Actual listing price of 407; owner disposition on 419
-- Resolve the $1.85M vs $3.6M–$4.2M land figure
+- Confirm TOA tier with City of New Westminster Planning (604-527-4532 or CityViews map) — pre-acquisition requirement
+- ~~Actual listing price of 407~~ → $1,999,000, listed Sep 2025 [developer-presentation-2026; sapperton-sentiment-analysis-2026]. 419 remains unlisted, owner disposition unknown.
+- ~~Resolve the $1.85M land figure~~ → resolved (share of purchase)
 - Are 417/425/427/431/434 still assembly candidates for Phase 2?
+- Resolve RLM as-of-right vs rezoning conflict (see Tensions)

@@ -15,8 +15,12 @@
 - Phase 2 entitlement path for [[garrett-407-419-assembly]] / [[sapperton-district-project]]
 - `supersedes` → [[tod-guidelines-nw]] — resolves the 2024 proposal's vague "TOD Guidelines" reference
 
+- TOA designations adopted for **all 5 New Westminster SkyTrain stations**; Sapperton effective June 30, 2024 [sapperton-sentiment-analysis-2026]
+- Interacts with OCP [[rlm-designation-nw]] designation on Garrett St lots
+
 ## Tensions
-- None internal. Resolves earlier ambiguity: the 2024 proposal's "TOD Guidelines, FAR 3.0, 6–8 storeys" matches TOA Tier 3 parameters.
+- Resolves earlier ambiguity: the 2024 proposal's "TOD Guidelines, FAR 3.0, 6–8 storeys" matches TOA Tier 3 parameters.
+- **Approval path dispute**: internal documents say TOA mid-rise = full rezoning + public hearing; the owner-facing landing page says consolidated RLM lots are "largely as-of-right… no rezoning, no public hearing" [landowner-information-page-2026]. Unresolved — see [[rlm-designation-nw]].
 
 ## Open questions
 - Confirm subject site's tier with City Planning (memo flags as pre-acquisition requirement)

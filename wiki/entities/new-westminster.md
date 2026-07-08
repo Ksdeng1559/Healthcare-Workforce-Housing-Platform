@@ -10,6 +10,8 @@
 - **Infill Housing Program**: OCP Bylaw 8573 + Zoning Bylaw 8578, third reading May 25, 2026, adopted June 2026 — 3-storey ground-oriented multi-unit by development permit only [sapperton-investment-memorandum-2026]
 - **Policy posture**: explicit council preference for 100% secured purpose-built rental in TOA rezonings; OCP Special Employment Area within 5-min walk of RCH; Interim Housing Needs Report commits 8,137 new units by 2029; federal Housing Accelerator Fund deadline June 15, 2026 [sapperton-master-strategy-2026]
 - **Politics**: council election October 2026; provincial TOA + Housing Supply Act obligations constrain reversal by a new council [both 2026 sources]
+- **Council voting record** [sapperton-sentiment-analysis-2026]: Columbia Square 3,800 units/53 storeys approved 5-2 (Oct 2024); Lower Twelfth staff heights rejected as "excessive" (2025); Townhouse Accelerator ~900 properties to RT, Bylaw 8547 adopted Feb 23 2026; non-profit 6 storeys in TOAs approved 5-0 (Feb 2026); mayor quoted "Resistance is futile" on infill (Mar 2026). Read: pro-housing, design-cautious, rental-tenure preference. Mid-rise design guidelines delayed to early 2027.
+- **Infill Program scale**: ~3,000 properties pre-zoned citywide — 1,900 to 4 units, 1,100 to 6 units [sapperton-sentiment-analysis-2026]
 - Collects DCCs and CACs; NW DCCs + school levies estimated $155K on the 6-unit Phase 1 [sapperton-investment-memorandum-2026, §4]
 - Approval process (2024 proposal): pre-application → rezoning → engagement → DP → BP [garrett-street-proposal-2024]
 

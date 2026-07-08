@@ -17,6 +17,9 @@
 ## Tensions
 - None
 
+- Program scale: ~3,000 properties pre-zoned citywide (1,900 → 4 units; 1,100 → 6 units); 1st/2nd reading May 11, 2026 [sapperton-sentiment-analysis-2026; developer-presentation-2026]
+
 ## Open questions
 - Exact unit-count/height/parking provisions of Bylaw 8578?
 - First applications processed under the program — precedent timing?
+- Is the subject site in the 4-unit or 6-unit category? Deck flags "confirm infill category (4 vs 6 units) for both parcels" [developer-presentation-2026, slide 14]

@@ -6,7 +6,7 @@
 ## What we know
 - CMHC construction financing for purpose-built rental: up to 100% loan-to-cost under post-November 2024 program reforms; interest-only during construction; built-in takeout to permanent financing [sapperton-investment-memorandum-2026, §4]
 - Processing timeline ~4–6 months application to funding [both 2026 sources]
-- Program scale: $29B deployment cited [sapperton-master-strategy-2026]
+- 2025 deployment: $29B / 74,500+ rental homes [investor-sponsor-universe-2026, citing CMHC 2025 Annual Report]
 - Role in district plan: primary construction lender for Phases 1–2; ~$18M–$22M for Phase 2 [sapperton-master-strategy-2026]
 
 ## Relationships

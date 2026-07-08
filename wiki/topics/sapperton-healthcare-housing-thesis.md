@@ -19,6 +19,8 @@ The platform's core thesis: assemble RS-1 land near Royal Columbian Hospital at 
 
 ## Tensions and uncertainties
 - **Phase 1 value gap**: stabilized income value ($2.8M–$3.8M) < total project cost ($3.76M) at midpoints — Phase 1 is a land-appreciation and proof-of-concept play, not a yield play. Memo doesn't state this plainly.
-- **Land basis gap**: pro forma land $1.85M vs target assembled acquisition $3.6M–$4.2M — unexplained.
-- **Single-author evidence base**: all three ingested sources are sponsor-authored. No independent appraisal, QS report, or city confirmation in wiki yet. Every external claim (bylaws, RCH stats, VGH deal) should be verified against primary sources before stakeholder use.
-- 2017 employment baseline is stale by 9 years.
+- ~~Land basis gap~~ resolved: pro forma's $1.85M is a "(share of purchase)" allocation [developer-presentation-2026, slide 8].
+- **Entitlement messaging gap**: internal docs = TOA mid-rise needs rezoning + hearing (guidelines 2027); owner-facing landing page = "as-of-right, no public hearing, 3–5 months." See [[rlm-designation-nw]] — unresolved, and a stakeholder-credibility risk if the page goes live unreconciled.
+- **Evidence base**: 11 of 12 ingested sources are sponsor-produced; the citations methodology doc [investor-citations-methodology-2026] substantially upgrades sourcing for investor/RCH/VGH claims (primary URLs), but no independent appraisal, QS report, or city confirmation exists in wiki. The one non-Eng document (sentiment analysis, ClearClose) has unknown independence.
+- **Execution status (Jul 7, 2026)**: everything is pre-outreach — no site control, no TOA confirmation, no Fraser Health contact, no capital committed. The thesis is fully documented and fully unexecuted.
+- 2017 employment baseline (3,326) is stale by 9 years.

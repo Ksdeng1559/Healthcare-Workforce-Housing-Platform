@@ -14,6 +14,8 @@
 - `depends-on` ← [[sapperton-district-project]]
 - Takeout for [[cmhc-aclp]]
 
+- **Extended to modular construction May 7, 2026** (after 800+ unit pilot, 5 provinces) — factory-phase financing gap closed [modular-housing-brief-2026, citing CMHC release]
+
 ## Tensions
 - None
 

@@ -15,9 +15,12 @@
 - Proposed anchor tenant of [[sapperton-district-project]] (`funded-by` reversed — lease guarantee, not capital)
 - `located-in` → [[new-westminster]] (HQ)
 
+- CEO: Dermot Kelly; planned approach via VP People & Culture (HQ: 13450 102nd Ave, Surrey); letter of support valued by sponsor as "worth more than $5M of equity" [investor-sponsor-universe-2026]
+- Existing housing-partnership precedent: co-developer with [[bc-housing]] on Burnaby supportive housing (40 units, 5389 Imperial St) + Fraser Valley projects [investor-citations-methodology-2026]
+
 ## Tensions
 - Staff count inconsistent across the two sponsor documents (29,000–50,000 vs 50,000+). Neither cites a primary source.
 
 ## Open questions
 - Fraser Health income thresholds referenced for AHF affordability qualification — what are they?
-- Any actual engagement with Fraser Health to date?
+- ~~Any actual engagement to date?~~ → No. GTM doc (Jul 7, 2026) lists first contact as a *next step* [developer-gtm-2026].

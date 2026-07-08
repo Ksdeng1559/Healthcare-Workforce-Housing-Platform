@@ -19,8 +19,11 @@ Primary de-risking precedent for [[sapperton-district-project]]. Sponsor's compa
 - Precedent for → [[sapperton-district-project]]
 - Sponsors: Harrison Street Asset Management (Chicago) + PC Urban Properties — Harrison Street also listed as target JV partner for Sapperton
 
+- Demand stat: 35% of VGH's 12,000+ employees commute 2+ hours/day [PC Urban release Mar 31 2026, via investor-citations-methodology-2026]
+- Citations doc grades all VGH claims PRIMARY (Harrison St + PC Urban releases, RENX, Connect CRE) — strongest-sourced external facts in the wiki
+
 ## Tensions
-- None — but all VGH facts arrive via sponsor documents quoting press releases; not independently verified in wiki
+- None — facts trace to sponsor documents quoting press releases; primary URLs now catalogued in [investor-citations-methodology-2026]
 
 ## Open questions
 - Did the Aug 2026 groundbreaking proceed on schedule? (verifiable after that date)

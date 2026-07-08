@@ -1,5 +1,15 @@
 # Ingest Log
 
+## 2026-07-07 — Full remaining corpus (batch of 9 sources)
+- **Type**: 4 html (investor universe, citations methodology, sentiment analysis, landowner page), 3 docx (landowner GTM, developer GTM, modular brief), 1 pptx (developer deck), 1 md set (docs/ platform documents)
+- **Entities touched**: NEW — wesgroup-properties, quadreal-bci, harrison-street, hoopp, pc-urban, cpp-investments, omers-oxford, nicola-wealth (flagged LOW), bc-housing, healthcare-unions-bc, sapperton-residents-association, sapperton, rlm-designation-nw, modular-construction, build-canada-homes, healthcare-workforce-housing-platform. UPDATED — garrett-407-419-assembly (lot detail, land-figure tension resolved), sapperton-district-project (GTM tracks), fraser-health, eng-associates, new-westminster (council record), toa-framework-nw, infill-housing-program-nw, mli-select (modular expansion), royal-columbian-hospital, vgh-workforce-housing, affordable-housing-fund, cmhc-aclp
+- **Topics touched**: NEW — capital-partner-universe, community-sentiment-approval-risk, modular-delivery-decision. UPDATED — sapperton-healthcare-housing-thesis, garrett-street-entitlement-pathways
+- **Tensions resolved**: $1.85M land figure = "share of purchase" [deck slide 8]; 407 listing price = $1.999M (Sep 2025)
+- **New tensions**: landowner page claims mid-rise as-of-right (no rezoning/hearing, 3–5 mo) vs memo/deck rezoning + hearing — MATERIAL, unresolved; RCH tower 388 vs 350 beds; Nicola Wealth flagged for removal by sponsor's own audit; HOOPP Ontario-membership vs BC-asset mission stretch
+- **New questions**: RLM legal effect; 4-vs-6-unit infill category for subject lots; BC modular manufacturer capacity; ClearClose/Dennis Soh independence; water/sewer servicing cost risk
+- **Status finding**: as of Jul 7, 2026 all activity is pre-execution — no outreach, no site control, no commitments
+
+
 ## 2026-07-07 — Sapperton Investment Memorandum + Master Strategy (batch)
 - **Type**: docx (`Sapperton_Healthcare_Housing_District_Investment_Memorandum.docx`, Jul 2026) + html (`sapperton_healthcare_housing_strategy.html`, Jun 2026), both Eng & Associates
 - **Entities touched**: NEW — garrett-407-419-assembly, sapperton-district-project, royal-columbian-hospital, fraser-health, eng-associates, vgh-workforce-housing, rs-1-zoning-nw, toa-framework-nw, infill-housing-program-nw, cmhc-aclp, mli-select, affordable-housing-fund. UPDATED — garrett-street-assembly (superseded), garrett-street-project (superseded), new-westminster, rd-zoning-nw (superseded), tod-guidelines-nw (superseded), rm-3-zoning-nw, dcc

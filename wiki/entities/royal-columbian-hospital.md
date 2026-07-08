@@ -17,8 +17,11 @@ Confirmed by both 2026 sources (strengthened):
 - `serves` ← [[sapperton-district-project]] — demand anchor for the district
 - `located-in` → [[new-westminster]] (Sapperton)
 
+- Precise baseline: 3,326 employees (2017) [investor-citations-methodology-2026, citing Wikipedia + fraserhealth.ca]
+
 ## Tensions
 - Employee baseline is a 2017 figure used in 2026 documents — likely understates current headcount post-expansion. Both sources flag it as "pre-expansion baseline"; treat as floor.
+- Bed count: 388 beds [memo, citing official releases] vs "350-bed acute care tower" [sapperton-sentiment-analysis-2026]. Memo's cited figure preferred.
 
 ## Open questions
 - Current (2026) actual employee count?
